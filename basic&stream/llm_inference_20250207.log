@@ -1,0 +1,73 @@
+2025-02-07 17:07:54,276 - __main__ - INFO - Initialized LLM Inference with model: llama-3.2-3b-instruct
+2025-02-07 17:08:03,076 - httpx - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-07 17:08:03,080 - __main__ - INFO - Generated response for prompt: Give me a meal plan for today as Friday meal....
+2025-02-07 17:08:03,080 - __main__ - INFO - Generated Meal Plan:
+Here's a delicious and balanced meal plan for a typical Friday:
+
+**Breakfast**
+
+- 1 large egg (70 calories, 6g protein)
+- 1 slice of whole-grain toast (89 calories, 2g fiber)
+- 1/4 cup mixed berries (60 calories, 1g fiber, 1g sugar)
+- 1/2 cup Greek yogurt (50 calories, 10g protein)
+
+Total Calories: approximately 309
+Total Protein: 17g
+
+**Mid-Morning Snack**
+
+- 1 small apple (95 calories, 4g fiber, 19g carbs)
+- 1 tablespoon almond butter (100 calories, 2g healthy fats)
+
+Total Calories: approximately 195
+Total Fiber: 6g
+
+**Lunch**
+
+- Grilled chicken breast (4 oz, 140 calories, 30g protein)
+- Roasted vegetables (broccoli, carrots, bell peppers) (50 calories, 5g fiber)
+- 1 small whole-grain pita (100 calories, 2g fiber)
+
+Total Calories: approximately 290
+Total Protein: 30g
+
+**Mid-Afternoon Snack**
+
+- 1 handful of almonds (150 calories, 6g healthy fats)
+- 1 small pear (62 calories, 4g fiber)
+
+Total Calories: approximately 212
+Total Fiber: 10g
+
+**Dinner**
+
+- Baked salmon (4 oz, 180 calories, 35g protein)
+- Quinoa and steamed green beans (100 calories, 2g fiber)
+- 1 small side salad with vinaigrette dressing (50 calories, 1g fiber)
+
+Total Calories: approximately 330
+Total Protein: 35g
+
+**Evening Snack**
+
+- 1 small banana (90 calories, 3g fiber)
+- 1 tablespoon dark chocolate chips (100 calories, 2g sugar)
+
+Total Calories: approximately 190
+Total Fiber: 5g
+
+**Tips**
+
+- Drink plenty of water throughout the day (at least 8 glasses)
+- Consider incorporating physical activity, such as walking or light exercise
+- Adjust portion sizes based on individual calorie needs and dietary requirements
+
+**Total Daily Intake**
+
+This Friday meal plan provides approximately:
+- 1690 calories
+- 89g protein
+- 25g healthy fats
+- 40g fiber
+
+This meal plan aims to balance macronutrients, provide essential vitamins and minerals, and cater to a variety of dietary preferences. However, personal nutritional needs may vary; please consult with a healthcare professional or registered dietitian for personalized recommendations.

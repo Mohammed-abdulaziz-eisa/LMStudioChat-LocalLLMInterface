@@ -1,0 +1,44 @@
+2025-02-07 17:08:26,328 - __main__ - INFO - Initialized LLM Inference with model: llama-3.2-3b-instruct
+2025-02-07 17:08:26,357 - httpx - INFO - HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-07 17:08:32,069 - __main__ - INFO - Generated Meal Plan:
+I'd be happy to help you with a meal plan for today, Friday. Since I don't know your personal preferences, dietary restrictions, or allergies, I'll provide you with a general and balanced meal plan. Feel free to adjust it according to your needs.
+
+**Friday Meal Plan**
+
+**Breakfast**
+
+* Monday's Breakfast will be on Saturday
+* For Friday, I'll give you a similar breakfast: Avocado Toast with Poached Eggs and Cherry Tomatoes
+	+ 2 slices whole-grain bread
+	+ 1/2 avocado, mashed
+	+ 2 poached eggs
+	+ 1/4 cup cherry tomatoes, halved
+	+ Salt and pepper to taste
+
+**Lunch**
+
+* Grilled Chicken Breast with Quinoa, Roasted Vegetables, and a Side Salad
+	+ 4 oz grilled chicken breast
+	+ 1/2 cup cooked quinoa
+	+ 1 cup mixed roasted vegetables (such as broccoli, carrots, and bell peppers)
+	+ 2 cups mixed greens salad with your choice of dressing
+	+ Top the salad with sliced almonds and dried cranberries (optional)
+
+**Snack**
+
+* Fresh Fruit Salad with Greek Yogurt
+	+ 1 cup mixed fresh fruit (such as berries, grapes, and pineapple)
+	+ 6 oz Greek yogurt
+	+ Sprinkle of granola (optional)
+
+**Dinner**
+
+* Baked Salmon with Roasted Sweet Potatoes and Steamed Green Beans
+	+ 4 oz baked salmon fillet
+	+ 1 medium roasted sweet potato, diced
+	+ 1 cup steamed green beans
+	+ Season with salt, pepper, and lemon juice
+
+**Evening Snack (optional)**
+
+* Herbal tea or a warm cup of milk with a pinch of cinnamon
