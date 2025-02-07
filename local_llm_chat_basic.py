@@ -70,6 +70,8 @@ def main():
         print("Generated Meal Plan:")
         print(response)
         
+        logger.info(f"Generated Meal Plan:\n{response}")
+        
     except Exception as e:
         logger.error(f"Execution failed: {e}")
 
